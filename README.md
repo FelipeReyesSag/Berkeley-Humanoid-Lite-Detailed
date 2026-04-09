@@ -1,4 +1,4 @@
-# Berkeley Humanoid Lite
+# Berkeley Humanoid Lite in Detail
 
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://docs.python.org/3/whatsnew/3.11.html)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/license/mit)
